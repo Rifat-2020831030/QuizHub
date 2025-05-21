@@ -1,0 +1,65 @@
+{
+  "quizHistory": [
+    {
+      "id": "quiz001",
+      "categoryId": "science",
+      "categoryName": "Science",
+      "dateTime": "2023-06-15T14:30:25",
+      "totalQuestions": 20,
+      "correctAnswers": 16,
+      "timeTakenSeconds": 540
+    },
+    {
+      "id": "quiz002",
+      "categoryId": "math",
+      "categoryName": "General Math",
+      "dateTime": "2023-06-17T10:15:40",
+      "totalQuestions": 15,
+      "correctAnswers": 7,
+      "timeTakenSeconds": 420
+    },
+    {
+      "id": "quiz003",
+      "categoryId": "technology",
+      "categoryName": "Technology",
+      "dateTime": "2023-06-20T16:45:10",
+      "totalQuestions": 10,
+      "correctAnswers": 8, 
+      "timeTakenSeconds": 300
+    },
+    {
+      "id": "quiz004",
+      "categoryId": "history",
+      "categoryName": "Australian History",
+      "dateTime": "2023-06-22T09:20:15",
+      "totalQuestions": 12,
+      "correctAnswers": 11,
+      "timeTakenSeconds": 360
+    },
+    {
+      "id": "quiz005",
+      "categoryId": "capital",
+      "categoryName": "Capital",
+      "dateTime": "2023-06-25T13:10:05",
+      "totalQuestions": 14,
+      "correctAnswers": 11,
+      "timeTakenSeconds": 390
+    },
+    {
+      "id": "quiz006",
+      "categoryId": "sports",
+      "categoryName": "Sports",
+      "dateTime": "2023-06-27T17:05:30",
+      "totalQuestions": 15,
+      "correctAnswers": 11,
+      "timeTakenSeconds": 450
+    }
+  ],
+  "categoryIcons": {
+    "math": "bg_math",
+    "science": "bg_science",
+    "technology": "bg_teach",
+    "history": "bg_history",
+    "sports": "bg_sports"
+  }
+}

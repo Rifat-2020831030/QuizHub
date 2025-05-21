@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">QuizHub</string>
+    <string name="app_name">Quiz Hub</string>
+    <string name="get_started">Get Started</string>
+    <string name="app_logo_description">Quiz Hub Logo</string>
+    <string name="welcome_to_quiz_app">Welcome to Quiz Hub!</string>
+    <string name="explore_categories">Explore Categories</string>
+    <string name="category">Category</string>
+    <string name="back_button">Back</string>
+    <string name="category_background">Category Background</string>
+    <!-- For history -->
+    <string name="history">History</string>
+    <string name="no_history_available">No History Available</string>
+    <string name="no_quiz_history">No Quiz History Yet</string>
+    <string name="take_quiz_to_see_history">Complete a quiz to see your history</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="questions_count">%d Questions</string>
+    <string name="correct_answers">%d Correct</string>
+    <string name="wrong_answers">%d Wrong</string>
+    <string name="total_time">%s</string>
+    <string name="avg_time">%s/q</string>
+    <string name="view_history">View History</string>
 </resources>

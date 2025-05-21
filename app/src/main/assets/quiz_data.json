@@ -1,0 +1,95 @@
+{
+  "categories": [
+    {
+      "id": "general_math",
+      "name": "General Math",
+      "description": "Test your knowledge of mathematics concepts and problems.",
+      "color": "#FF4500",
+      "questions": [
+        {
+          "id": "math_q1",
+          "question": "What is the value of π (pi) to two decimal places?",
+          "options": ["3.14", "3.15", "3.16", "3.17"],
+          "correctAnswerIndex": 0,
+          "explanation": "Pi (π) is approximately equal to 3.14159..., which is 3.14 when rounded to two decimal places."
+        },
+        {
+          "id": "math_q2",
+          "question": "What is the square root of 144?",
+          "options": ["10", "12", "14", "16"],
+          "correctAnswerIndex": 1,
+          "explanation": "12 × 12 = 144, so the square root of 144 is 12."
+        },
+        {
+          "id": "math_q3",
+          "question": "Solve the equation: 2x + 5 = 15",
+          "options": ["x = 5", "x = 10", "x = 7.5", "x = 5.5"],
+          "correctAnswerIndex": 0,
+          "explanation": "2x + 5 = 15 → 2x = 10 → x = 5"
+        },
+        {
+          "id": "math_q4",
+          "question": "What is 25% of 80?",
+          "options": ["15", "20", "25", "30"],
+          "correctAnswerIndex": 1,
+          "explanation": "25% of 80 = 0.25 × 80 = 20"
+        },
+        {
+          "id": "math_q5",
+          "question": "If a triangle has angles of 60°, 60°, and 60°, what type of triangle is it?",
+          "options": ["Isosceles", "Scalene", "Equilateral", "Right-angled"],
+          "correctAnswerIndex": 2,
+          "explanation": "A triangle with all angles equal (60°) is an equilateral triangle."
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "description": "Explore questions about physics, chemistry, biology and more.",
+      "color": "#4CAF50",
+      "questions": [
+        {
+          "id": "science_q1",
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Go", "Gd", "Au", "Ag"],
+          "correctAnswerIndex": 2,
+          "explanation": "Au (from Latin 'aurum') is the chemical symbol for gold."
+        },
+        {
+          "id": "science_q2",
+          "question": "What is the hardest natural substance on Earth?",
+          "options": ["Platinum", "Diamond", "Quartz", "Titanium"],
+          "correctAnswerIndex": 1,
+          "explanation": "Diamond is the hardest known natural material on Earth."
+        },
+        {
+          "id": "science_q3",
+          "question": "Which planet has the most moons?",
+          "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "correctAnswerIndex": 1,
+          "explanation": "Saturn has the most moons with 82 confirmed moons."
+        },
+        {
+          "id": "science_q4",
+          "question": "What is the main component of the Earth's atmosphere?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "correctAnswerIndex": 2,
+          "explanation": "Nitrogen makes up about 78% of Earth's atmosphere."
+        },
+        {
+          "id": "science_q5",
+          "question": "What is the speed of light in a vacuum?",
+          "options": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "1,000,000 km/s",
+            "500,000 km/s"
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "The speed of light in a vacuum is approximately 300,000 kilometers per second."
+        }
+      ]
+    }
+  ]
+}
